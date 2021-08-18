@@ -6,7 +6,7 @@
 На тестирование затрачено: 3.25 часов
 
 В результате тестирования выявлены следующие дефекты:
-[ Ошибка в определении валидности номера банковской карты ](https://github.com/UAzif/DZJ1.1/issues/1)
+[ Ошибка в определении валидности номера банковской карты ](https://github.com/UAzif/DZJ-1-1/issues/1)
 ## Описание процесса тестирования
 В качестве тестовых данных использовались данные [Credit Card Number Generator & Validator](https://www.freeformatter.com/credit-card-number-generator-validator.html#howToValidate:)
 1. American Express (AMEX)
